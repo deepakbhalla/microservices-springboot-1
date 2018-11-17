@@ -3,9 +3,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<artifactId>spring-boot-web-jsp</artifactId>
+	<artifactId>spring-boot-api</artifactId>
 	<packaging>war</packaging>
-	<name>Spring Boot Web JSP Example</name>
+	<name>Spring Boot API</name>
 	<description>Spring Boot Web JSP Example with Controller, Domain and Service Layer</description>
 	<version>1.0</version>
 
